@@ -1,5 +1,5 @@
 # bigBookSmallPythonProjects
-This is me walking though Al Sweigart's "Big Book of Small Python Projects". You can reach Sweigart on Twitter ([@AlSweigart](https://twitter.com/AlSweigart)) or, with a little invesitagtion on your part, other places.
+This is me walking though Al Sweigart's "Big Book of Small Python Projects". You can reach Sweigart on Twitter ([@AlSweigart](https://twitter.com/AlSweigart)) or al@inventwithpython.com.
 
 The book is available [for free to read](https://inventwithpython.com/bigbookpython/) under the Creative Commons license or [available for purchasee at the publisher No Starch](https://nostarch.com/big-book-small-python-projects) or the dreaded Amazon.
 
